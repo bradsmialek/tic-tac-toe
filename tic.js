@@ -226,3 +226,4 @@ const startGame = function () {
 //TEST FUNCTIONS
 startGame();
 // printBoard();
+kjvhjkv 
